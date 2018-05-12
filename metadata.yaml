@@ -1,0 +1,31 @@
+_repo: The-Motor-Boys-Over-the-RockiesOr-A-Mystery-of-the-Air_45576
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45576-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Young, Clarence
+    gutenberg_agent_id: '1632'
+    url: http://www.gutenberg.org/2009/agents/1632
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
+description: ''
+gutenberg_issued: '2014-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Rocky Mountains -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+title: The Motor Boys Over the Rockies; Or, A Mystery of the Air
+url: http://www.gutenberg.org/ebooks/45576
